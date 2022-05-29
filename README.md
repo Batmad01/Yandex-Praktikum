@@ -1,2 +1,2 @@
 # Yandex-Praktikum
-Yandex Praktikum projects
+Yandex Praktikum projects by Dmitriy Sopelnik
