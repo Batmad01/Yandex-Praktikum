@@ -20,7 +20,7 @@
 * Подготовка презентации по проекту
 
 # Используемые инструменты
-- python
-- pandas
-- seaborn
-- plotly
+- Python
+- Pandas
+- Seaborn
+- Plotly
