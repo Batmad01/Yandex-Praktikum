@@ -5,6 +5,7 @@
 Нужно будет написать несколько SQL-запросов в Jupyter Notebook для ответов на поставленные вопросы
 # Использованные инструменты
 - SQLAlchemy
+- PostgreSQL
 - Python
 - Pandas
 - Seaborn
