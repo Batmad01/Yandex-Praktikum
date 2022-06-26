@@ -28,6 +28,7 @@
 # Навыки и инструменты
 - Python
 - Pandas
+- Numpy
 - Seaborn
 - SciPy
 - A/B-тестирование
