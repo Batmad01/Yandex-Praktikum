@@ -8,6 +8,5 @@
 - Python
 - SQLAlchemy
 - SQLite
-- Dash
 - Tableau
 
