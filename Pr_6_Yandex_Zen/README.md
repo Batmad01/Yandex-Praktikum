@@ -19,4 +19,3 @@
 - SQLAlchemy
 - PostgreSQL
 - Tableau
-- Yandex Cloud
