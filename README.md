@@ -1,2 +1,2 @@
-# Yandex-Praktikum
-Yandex Praktikum projects by Dmitriy Sopelnik
+# Проекты Яндекс-Практикум
+|dasdsd |dsdsd|dsdsd|
